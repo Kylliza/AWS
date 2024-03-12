@@ -13,3 +13,7 @@ Added AdminX to IAM-User Groups...whoops xD
 Registered my first Domain using Route 53: autismaidhub.com :D
 
 Created S3 bucket and made it a static website / public
+
+Created a record in my hosted domain to attach the S3 bucket
+
+
