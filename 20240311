@@ -19,3 +19,5 @@ Created a -record- in my hosted domain to attach the *S3* bucket
 Created  My Zero-Spend Budget in *Budgets* for daily alerts
 
 Did a ping -WebsiteName with PowerShell and my website is up and running :D
+
+Successfully verified autismaidhub.com on github by creating another -record- in my domain using *Route 53*
